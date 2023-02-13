@@ -1,0 +1,5 @@
+Inside Volume = (l-2t) × (w-2t) × (h-2t)
+x = −b ± √b²-4ac/2a
+d=√(x₁ – x₂)² + (y₁ – y₂)²
+Slope = y₂ – y₁ /  x₂ – x₁
+a²+b²=c²
